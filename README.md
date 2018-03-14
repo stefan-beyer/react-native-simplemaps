@@ -1,7 +1,7 @@
 # Easy React-Native Map-Component
 ## react-native-simplemaps
 
-*** THIS COMPONENT IS A DRAFT - IF YOU LIKE TO USE IT: PLEASE IMROVE IT***
+___THIS COMPONENT IS A DRAFT - IF YOU LIKE TO USE IT: PLEASE IMROVE IT___
 
 This Component does not use any native Code.
 It simply renders map tiles from a tile server onto a View.
